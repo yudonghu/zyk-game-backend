@@ -1,4 +1,4 @@
-package com.zyk.gamebackend;
+package com.zyk.gamebackend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
